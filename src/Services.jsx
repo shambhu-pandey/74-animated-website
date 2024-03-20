@@ -1,6 +1,5 @@
 import React from "react";
-import { NavLink } from "react-router-dom";
-import web  from '../src/img1-home.webp'
+
 import Card from "./Card";
 import CardData from "./CardData";  // api call kar lete rhta toh abhi hm api ke jagah par array of object bna kar data rkhe hai 
 

@@ -12,6 +12,7 @@ import Footer from "./Footer";
 const App = () =>{
   return (
     <>
+
     <Navbar />
     <Routes>
       <Route exact path="/" element = {<Home />} />
@@ -27,3 +28,4 @@ const App = () =>{
 };
 
 export default App;
+
